@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **úvod a 3 kapitoly**, **28 samostatně nadepsaných ustanovení** (§ 1 až § 26 včetně § 1a, § 12a a § 17a, bez zrušeného § 19), **34 modalitních příkladů**, **9 systematicky vyložených zásad** a **0 místních karet rozhodnutí**. Místní důvodová zpráva součástí repozitáře není; historický a účelový argument proto stojí jen na textu zákona a na výkladu kapitol. Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **úvod a 3 kapitoly**, **28 samostatně nadepsaných ustanovení** (§ 1 až § 26 včetně § 1a, § 12a a § 17a, bez zrušeného § 19), **34 modalitních příkladů**, **9 systematicky vyložených zásad** a **2 místní karty rozhodnutí Nejvyššího soudu** ve složce [judikatura/](judikatura/README.md) (k § 1 a § 17a). Místní důvodová zpráva součástí repozitáře není; historický a účelový argument proto stojí jen na textu zákona a na výkladu kapitol. Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -257,20 +257,28 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje **žádnou místní kartu rozhodnutí**; soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly neobsahují **žádnou spisovou značku**. Složka `judikatura/` bude doplněna strojově později; do té doby je judikatorní vrstva **evidovanou mezerou**, nikoli doloženým stavem rozhodovací praxe.
-- [Komentář k zákonu č. 229/2002 Sb., o finančním arbitrovi](00-uvod.md): „komentář proto neuvádí žádné spisové značky a tam, kde je výklad sporný, to otevřeně označuje jako výkladovou otázku.“
-- [Poznámka k metodě](00-uvod.md): „Komentář neobsahuje judikaturu ani spisové značky — lokální podklady k zákonu žádné judikaturní karty neobsahují.“
+Složka [judikatura/](judikatura/README.md) obsahuje **2 místní karty rozhodnutí Nejvyššího soudu** (obě kat. A); každá je citována u jednoho ustanovení. U ostatních 26 komentovaných ustanovení místní zdroje vhodnou judikaturu neobsahují a soubor zásad na žádnou kartu neodkazuje. Judikatorní vrstva je tedy **úzká a bodová** a nedokládá stav rozhodovací praxe.
+- [Poznámka k metodě](00-uvod.md): „Judikatura je v komentáři citována jen ze dvou místních karet Nejvyššího soudu“
 - [Poznámka k metodě](00-uvod.md): „kazuistiky jsou modelové a nevycházejí z konkrétních rozhodnutí.“
 
-Místní korpus tedy neposkytuje rozpoznanou kartu ani citaci rozhodnutí; judikatorní závěr se nesmí domýšlet. Závěry v kapitolách označené jako pořádková povaha lhůt, konečnost rozhodnutí o námitkách ve vztahu k soudní ochraně nebo veřejnoprávní povaha pořádkové pokuty jsou **syntézou z textu**, nikoli převzatou judikaturou.
+**NS 20 Cdo 3524/2015 ze dne 1. 6. 2016 — k § 1** ([karta](judikatura/NS-20-Cdo-3524-2015.md); [kapitola 1](01-uvodni-ustanoveni-arbitr.md)).
+- Nosná teze: pravomoc arbitra ke sporům z poskytování platebních služeb „je dána i v případě, kdy je platební služba poskytnuta z důvodu, který má původ mimo tento právní vztah (exekuce)“.
+- Hranice použitelnosti: rozhodnutí vykládá § 1 písm. a) „ve znění účinném do 18. 8. 2013“; na platné znění § 1 odst. 1 písm. a) lze závěr přenést jen po ověření, že se vymezení sporů z platebních služeb v podstatném nezměnilo. Druhá věta právní věty se týká § 304b odst. 1 o. s. ř. ve znění účinném do 31. 12. 2012 (ochrana peněžních prostředků ve výši dvojnásobku životního minima při výkonu rozhodnutí); jde o výklad o. s. ř. v daném znění, nikoli ZFA.
 
-**Prioritní místa pro budoucí karty rozhodnutí** (podle výkladových otázek kapitol): účinky návrhu po zastavení řízení (§ 8 odst. 2); rozsah nevázanosti návrhem (§ 12 odst. 3); soudní přezkum nálezu podle části páté o.s.ř. a vliv vzdání se námitek (§ 16); soudní ochrana proti pořádkové pokutě (§ 23); použitelnost mimořádných prostředků správního řádu (§ 24); okruh osob odvozujících práva od spotřebitele (§ 1).
+**NS 23 Cdo 1885/2021 ze dne 30. 8. 2022 — k § 17a** ([karta](judikatura/NS-23-Cdo-1885-2021.md); [kapitola 2](02-rizeni-pred-arbitrem.md)).
+- Nosná teze k soudnímu projednání: rozsah, v jakém soud věc projedná a rozhodne, „je v řízení podle části páté o. s. ř. určován jednak tím, o čem správní orgán pravomocně rozhodl, jednak požadavkem žalobce vyjádřeným v žalobě“; část věci, která nebyla otevřena k novému projednání soudem, nemůže navrhovatel účinně vzít zpět.
+- Nosná teze k § 17a, jak ji shrnuje výklad [§ 17a](02-rizeni-pred-arbitrem.md): „soud při zpětvzetí návrhu na zahájení řízení před arbitrem vysloví pozbytí účinnosti i ve vztahu k výroku o sankci podle § 17a, jestliže tento výrok v důsledku pozbytí účinnosti ostatních výroků ztratí opodstatnění“; zůstane-li účinný výrok, jímž bylo návrhu zčásti vyhověno, výrok o sankci jako výrok na něm závislý své opodstatnění neztrácí.
+- Hranice použitelnosti: rozhodnutí řeší soudní řízení po nálezu podle části páté o. s. ř. a zpětvzetí návrhu v něm; neřeší výši sankce, zahrnutí příslušenství do jejího základu ani správu placení — to zůstávají výkladové otázky kapitoly 2. Kapitola 2 cituje právní větu zkráceně; úplné znění včetně části o výroku o sankci je na kartě.
+
+Ostatní závěry kapitol — zejména pořádková povaha lhůt, konečnost rozhodnutí o námitkách ve vztahu k soudní ochraně nebo veřejnoprávní povaha pořádkové pokuty — jsou **syntézou z textu**, nikoli převzatou judikaturou; judikatorní závěr se k nim nesmí domýšlet.
+
+**Prioritní místa pro budoucí karty rozhodnutí** (podle výkladových otázek kapitol): účinky návrhu po zastavení řízení (§ 8 odst. 2); rozsah nevázanosti návrhem (§ 12 odst. 3); vliv vzdání se námitek na soudní ochranu (§ 16) — rozsah soudního projednání a zpětvzetí v řízení podle části páté o. s. ř. pokrývá jen karta NS 23 Cdo 1885/2021; soudní ochrana proti pořádkové pokutě (§ 23); použitelnost mimořádných prostředků správního řádu (§ 24); okruh osob odvozujících práva od spotřebitele (§ 1), který karta NS 20 Cdo 3524/2015 neřeší.
 
 **Hloubkový test.**
-- U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
-- Ověřte, zda soud vykládal stejné znění ZFA (okruh sporů se novelami měnil) a stejný právní problém, a zda závěr nebyl později odlišen nebo překonán.
+- U každé karty (stávající i budoucí) oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- Ověřte, zda soud vykládal stejné znění ZFA (okruh sporů se novelami měnil — u NS 20 Cdo 3524/2015 jde o znění do 18. 8. 2013) a stejný právní problém, a zda závěr nebyl později odlišen nebo překonán.
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech (např. konkrétní typ poplatku).
-- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability; do doplnění složky `judikatura/` všechny tyto položky vedete jako otevřené.
+- Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability; obě místní karty jsou jednotlivá rozhodnutí, nikoli doložená linie, a ostatní položky vedete jako otevřené.
 
 **Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [Poznámka k metodě](00-uvod.md)
 
@@ -291,7 +299,7 @@ Konkurenční výklady jsou v kapitolách soustavně katalogizovány: každé z 
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu (např. pro pokutování navrhovatele svědčí jazyk § 23 odst. 2, proti němu § 14 odst. 1 písm. b) a ochranný účel).
-- U každé varianty uveďte textový, systematický, účelový a — po doplnění — místní judikatorní argument; historický argument z důvodové zprávy zatím chybí.
+- U každé varianty uveďte textový, systematický, účelový a — je-li k dispozici (dosud jen u § 1 a § 17a) — místní judikatorní argument; historický argument z důvodové zprávy zatím chybí.
 - Porovnejte praktické následky variant (ztráta účinku na promlčení, uzavření soudní cesty, dvojí pokuta) a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -349,7 +357,7 @@ Aplikační vrstvu lze ověřit zejména v:
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **úvodem a 3 kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- repozitář zatím neobsahuje místní karty rozhodnutí; složka `judikatura/` bude doplněna strojově později a soubor zásad proto neodkazuje na citovatelnou judikatorní tezi;
+- repozitář obsahuje jen 2 místní karty rozhodnutí NS (20 Cdo 3524/2015 k § 1, 23 Cdo 1885/2021 k § 17a); u zbývajících 26 ustanovení judikatorní opora chybí a soubor zásad na judikatorní tezi neodkazuje;
 - místní důvodová zpráva není součástí korpusu, historický argument nelze doložit;
 - časová působnost jednotlivých novel rozšiřujících § 1 odst. 1 a § 3 odst. 1 není v místním korpusu ověřena;
 - kapitola 3 neobsahuje u žádného z osmi ustanovení oddíl typicky rozhodných důkazů a podkladů;
@@ -370,22 +378,22 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod](00-uvod.md) | ano | ano | ano | jen konstatována absence | ano | ano | nenalezeno | ano |
-| [Kapitola 1](01-uvodni-ustanoveni-arbitr.md) | ano | ano | ano | nenalezeno | ano | ano | ano | dílčí |
-| [Kapitola 2](02-rizeni-pred-arbitrem.md) | ano | ano | ano | nenalezeno | ano | ano | ano | dílčí |
+| [Úvod](00-uvod.md) | ano | ano | ano | evidovány 2 místní karty | ano | ano | nenalezeno | ano |
+| [Kapitola 1](01-uvodni-ustanoveni-arbitr.md) | ano | ano | ano | ano (§ 1) | ano | ano | ano | dílčí |
+| [Kapitola 2](02-rizeni-pred-arbitrem.md) | ano | ano | ano | ano (§ 17a) | ano | ano | ano | dílčí |
 | [Kapitola 3](03-naklady-spoluprace-pokuty-zaverecna.md) | ano | nenalezeno | ano | nenalezeno | ano | ano | ano | dílčí |
 
 „Dílčí“ znamená, že kapitola otevřené otázky označuje, ale neeviduje datum kontroly ani aktualizační spouštěč u jednotlivých ustanovení.
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál nebyl nalezen v žádné ze 3 kapitol; po strojovém doplnění složky `judikatura/` je nutné každou kartu přiřadit k ustanovení a k výkladové otázce z vrstvy 10.
+- **Judikatura:** místní karta je přiřazena v [kapitole 1](01-uvodni-ustanoveni-arbitr.md) (§ 1 — NS 20 Cdo 3524/2015) a v [kapitole 2](02-rizeni-pred-arbitrem.md) (§ 17a — NS 23 Cdo 1885/2021); [kapitola 3](03-naklady-spoluprace-pokuty-zaverecna.md) judikatorní signál neobsahuje. Každou další kartu je nutné přiřadit k ustanovení a k výkladové otázce z vrstvy 10.
 - **Důkazy:** oddíl typicky rozhodných důkazů chybí v [kapitole 3](03-naklady-spoluprace-pokuty-zaverecna.md) (§ 18 až § 26), přestože § 21, § 22 a § 23 pracují s doklady o doručení, výzvách a zveřejnění.
 - **Čas:** u písmen § 1 odst. 1 doplněných novelami chybí ověřené datum, od něhož spor arbitrovi náleží.
 
 **Hloubkový test.**
 - Na konci výkladu evidujte ověřené pravidlo, použitý místní zdroj, míru jistoty, otevřenou otázku a datum kontroly.
-- Aktualizaci spouští změna znění (zejména rozšíření § 1 odst. 1), doplnění karty rozhodnutí do složky `judikatura/`, rozpor mezi kapitolou a systémovým dokumentem nebo nefunkční odkaz.
+- Aktualizaci spouští změna znění (zejména rozšíření § 1 odst. 1), doplnění další karty rozhodnutí do složky `judikatura/`, rozpor mezi kapitolou a systémovým dokumentem nebo nefunkční odkaz.
 - Tvrzení bez místní opory označte jako hypotézu či otevřenou otázku; absenci pramene nevydávejte za ustálené právo.
 - Po každé aktualizaci znovu ověřte časovou působnost, odkazy, návazné předpisy a modelové příklady.
 
@@ -403,7 +411,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 | Proces | příslušnost, sled kroků, forma, lhůta, námitky | seznam paragrafů bez časové osy a stavění lhůt |
 | Důkazy | znak, skutečnost, důkaz, sféra přístupu, nejistota | přenesení důkazního břemene na spotřebitele |
 | Následky | primární norma, porušení, následek, ochrana | směšování sankce, pokuty, zastavení a nákladů |
-| Judikatura | ratio, kontext, dosah, vývoj linie | domyšlená judikatura před doplněním karet |
+| Judikatura | ratio, kontext, dosah, vývoj linie | domyšlená judikatura nad rámec místních karet |
 | Sporné výklady | nejsilnější varianty a důvod preference | potlačení označené výkladové otázky |
 | Vazby | specialita, subsidiarita, přednost, ústavní limit | použití správního řádu tam, kde ZFA stanoví jinak |
 | Aplikace | skutky, pravidlo, důkazy, subsumpce, výsledek | příklad bez výslovného naplnění znaků |

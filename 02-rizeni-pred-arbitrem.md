@@ -660,6 +660,8 @@ Pravomocný nález je exekučním titulem; jeho výkon probíhá soudně, nikoli
 
 Sankce se neukládá, bylo-li řízení **zastaveno** (§ 14), včetně zpětvzetí po smírném vyřešení sporu, ani při **zamítnutí** návrhu. Výrok o sankci je součástí nálezu, a lze jej proto napadnout námitkami (§ 16) společně s výrokem ve věci samé; změní-li arbitr nález tak, že návrh zamítne, odpadá i sankce.
 
+**Výrok o sankci v soudním řízení podle části páté o. s. ř.** Výrok o sankci je na výroku ve věci samé závislý. Podle místní judikaturní karty NS 23 Cdo 1885/2021 (viz výše) soud při zpětvzetí návrhu na zahájení řízení před arbitrem vysloví pozbytí účinnosti i ve vztahu k výroku o sankci podle § 17a, jestliže tento výrok v důsledku pozbytí účinnosti ostatních výroků ztratí opodstatnění; zůstane-li však účinný výrok, jímž bylo návrhu zčásti vyhověno, výrok o sankci své opodstatnění neztrácí. Rozsah, v němž je věc otevřena k novému projednání, určuje žaloba (§ 247 a násl. o. s. ř.).
+
 #### Správa placení
 
 Zákon neupravuje, kdo sankci vybírá a vymáhá. Přes § 24 se nabízí § 106 správního řádu: pro správu placení peněžitého plnění se uplatní postup pro správu daní (odst. 1) a správu placení vykonává obecný správce daně (odst. 2), neboť sankce je příjmem veřejného rozpočtu a nespadá mezi výjimky podle § 106 odst. 4 správního řádu. Tento závěr je **výkladový**. Konsolidované znění zákona v lokálním zdroji obsahuje poznámku pod čarou č. 3 odkazující jednak na zákon č. 337/1992 Sb., o správě daní a poplatků — ten byl **zrušen** daňovým řádem (§ 265 zákona č. 280/2009 Sb., účinného od 1. 1. 2011) —, jednak na § 2 odst. 2 daňového řádu (vymezení veřejného rozpočtu); v textu zákona však odkaz na tuto poznámku zachycen není, takže ji nelze s jistotou přiřadit konkrétnímu ustanovení.

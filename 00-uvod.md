@@ -2,7 +2,7 @@
 
 > **Znění k 15. únoru 2025** (dokument e-Sbírky `SB-2002-00229_2025-02-15`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Výklad jednotlivých ustanovení vychází z doslovného znění zákona citovaného v kapitolách, z jeho systematiky, z vazeb na správní řád, občanský zákoník a předpisy finančního trhu a z obecných výkladových zásad. Lokální materiály, z nichž komentář vychází, neobsahují k zákonu samostatné judikaturní karty; komentář proto **neuvádí žádné spisové značky** a tam, kde je výklad sporný, to otevřeně označuje jako **výkladovou otázku**. Kdekoli doprovodné soubory (ZASADY.md, PRAVNI-MODALITY.md) hovoří o oporách výkladu, jde o opory v textu zákona a v komentáři, nikoli o citace konkrétních rozhodnutí. Ustanovení § 19 je v konsolidovaném znění obsaženo jen odkazem v § 25 — jde o ustanovení zrušené, které se samostatně nekomentuje.
+> **Metodická poznámka:** Výklad jednotlivých ustanovení vychází z doslovného znění zákona citovaného v kapitolách, z jeho systematiky, z vazeb na správní řád, občanský zákoník a předpisy finančního trhu a z obecných výkladových zásad. Z místních zdrojů jsou ke komentáři připojeny pouze **dvě judikaturní karty Nejvyššího soudu** ve složce [judikatura/](judikatura/README.md) — NS 20 Cdo 3524/2015 u § 1 a NS 23 Cdo 1885/2021 u § 17a; ostatní závěry kapitol jsou **syntézou z textu** zákona a jeho systematiky a tam, kde je výklad sporný, to komentář otevřeně označuje jako **výkladovou otázku**. Kdekoli doprovodné soubory (ZASADY.md, PRAVNI-MODALITY.md) hovoří o oporách výkladu, jde o opory v textu zákona a v komentáři, nikoli o citace konkrétních rozhodnutí. Ustanovení § 19 je v konsolidovaném znění obsaženo jen odkazem v § 25 — jde o ustanovení zrušené, které se samostatně nekomentuje.
 
 ---
 
@@ -80,7 +80,7 @@ Arbitr spolupracuje s obdobnými orgány mimosoudního řešení spotřebitelsk�
 ## Poznámka k metodě
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** (bez elips), pod ním oddíl `**Výklad:**` členěný podle odstavců a výkladových témat a dále oddíly **F. Kazuistika** (modelová situace, právní otázka, použitelné právo, subsumpce, řešení, varianty), **G. Protiargumenty a rizika** a **H. Praktický závěr** s kontrolním checklistem a přehledem typicky rozhodných důkazů.
-- Komentář neobsahuje judikaturu ani spisové značky — lokální podklady k zákonu žádné judikaturní karty neobsahují. Sporné závěry jsou výslovně označeny jako **výkladová otázka**; kazuistiky jsou modelové a nevycházejí z konkrétních rozhodnutí.
+- Judikatura je v komentáři citována jen ze dvou místních karet Nejvyššího soudu ve složce [judikatura/](judikatura/README.md): NS 20 Cdo 3524/2015 ze dne 1. 6. 2016 (u § 1, k písm. a) ve znění účinném do 18. 8. 2013) a NS 23 Cdo 1885/2021 ze dne 30. 8. 2022 (u § 17a, k soudnímu projednání podle části páté o. s. ř.). U ostatních 26 komentovaných ustanovení místní zdroje vhodnou judikaturu neobsahují a komentář žádné spisové značky neuvádí. Sporné závěry jsou výslovně označeny jako **výkladová otázka**; kazuistiky jsou modelové a nevycházejí z konkrétních rozhodnutí.
 - Doprovodné soubory [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) pracují výhradně s doslovnými citacemi z kapitol tohoto repozitáře.
 
 ---

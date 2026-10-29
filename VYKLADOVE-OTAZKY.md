@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 229/2002 Sb., o finančním arbitrovi. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Místní důvodová zpráva ani místní karty rozhodnutí zatím součástí repozitáře nejsou. Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře k zákonu č. 229/2002 Sb., o finančním arbitrovi. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md**, **PRAVNI-MODALITY.md** a **HLOUBKOVY-VYKLAD.md**. Místní důvodová zpráva součástí repozitáře není; místní judikaturu tvoří jen dvě karty Nejvyššího soudu ve složce `judikatura/` (k § 1 a § 17a). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -144,12 +144,15 @@ Typické místní střety: rychlost × úplné zjištění skutkového stavu (§
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář zatím neobsahuje **žádnou** místní kartu rozhodnutí; v systematickém souboru zásad je odkazováno na **0** místních karet s použitelnou citací. Složka `judikatura/` bude doplněna strojově později.
-- [Poznámka k metodě](00-uvod.md): „Komentář neobsahuje judikaturu ani spisové značky — lokální podklady k zákonu žádné judikaturní karty neobsahují.“
+Repozitář obsahuje **2** místní karty rozhodnutí Nejvyššího soudu ve složce [judikatura/](judikatura/README.md), každou citovanou u jednoho ustanovení; systematický soubor zásad na žádnou z nich neodkazuje.
+- [Poznámka k metodě](00-uvod.md): „U ostatních 26 komentovaných ustanovení místní zdroje vhodnou judikaturu neobsahují a komentář žádné spisové značky neuvádí.“
 
-Místní korpus tedy neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se nesmí domýšlet. Závěry kapitol (např. pořádková povaha lhůty k nálezu, soudní projednání věci podle části páté o.s.ř.) jsou syntézou z textu a musí tak být i označeny.
+- **NS 20 Cdo 3524/2015 ze dne 1. 6. 2016** ([karta](judikatura/NS-20-Cdo-3524-2015.md)) — u [§ 1](01-uvodni-ustanoveni-arbitr.md): pravomoc arbitra ke sporům z poskytování platebních služeb „je dána i v případě, kdy je platební služba poskytnuta z důvodu, který má původ mimo tento právní vztah (exekuce)“. Hranice: jde o § 1 písm. a) „ve znění účinném do 18. 8. 2013“; druhá věta právní věty vykládá § 304b odst. 1 o. s. ř. ve znění účinném do 31. 12. 2012, nikoli ZFA.
+- **NS 23 Cdo 1885/2021 ze dne 30. 8. 2022** ([karta](judikatura/NS-23-Cdo-1885-2021.md)) — u [§ 17a](02-rizeni-pred-arbitrem.md): rozsah soudního projednání podle části páté o. s. ř. určuje to, o čem arbitr pravomocně rozhodl, a rozsah vymezený žalobou; při zpětvzetí návrhu soud vysloví pozbytí účinnosti i výroku o sankci podle § 17a, jestliže ztratí opodstatnění, nikoli však tehdy, zůstane-li účinný výrok, jímž bylo návrhu zčásti vyhověno. Hranice: rozhodnutí neřeší výši ani základ sankce či správu placení.
 
-**Jak ji řešit.** Po doplnění složky `judikatura/` u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění ZFA a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo. Do té doby vedete judikaturu u každého ustanovení jako výslovnou mezeru a prioritně ji hledáte k otázkám uvedeným v otázce 11.
+Ostatní závěry kapitol (např. pořádková povaha lhůty k nálezu nebo veřejnoprávní povaha pořádkové pokuty) jsou syntézou z textu a musí tak být i označeny; judikatorní odpověď se k nim nesmí domýšlet.
+
+**Jak ji řešit.** U každé karty oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění ZFA (u NS 20 Cdo 3524/2015 znění do 18. 8. 2013) a stejný právní problém. Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo. U ostatních ustanovení vedete judikaturu jako výslovnou mezeru a prioritně ji hledáte k otázkám uvedeným v otázce 11.
 
 **Místní opora.** [místní zásady a citace](ZASADY.md); [Poznámka k metodě](00-uvod.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
@@ -182,7 +185,7 @@ Místní kapitoly obsahují u každého z 28 ustanovení oddíl **G. Protiargume
 - [§ 24 — Řízení](03-naklady-spoluprace-pokuty-zaverecna.md) — mimořádné opravné prostředky správního řádu.
 - [§ 16 — G. Protiargumenty a rizika](02-rizeni-pred-arbitrem.md): „zákon výslovně neupravuje, zda o námitkách proti nálezu vydanému zástupcem arbitra rozhoduje arbitr (§ 4 odst. 3) — výkladová otázka.“
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a — po doplnění karet — místní judikatorní argument, praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a — je-li k dispozici (dosud jen u § 1 a § 17a) — místní judikatorní argument, praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [kapitola 1](01-uvodni-ustanoveni-arbitr.md); [kapitola 2](02-rizeni-pred-arbitrem.md); [kapitola 3](03-naklady-spoluprace-pokuty-zaverecna.md); [místní zásady](ZASADY.md); [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
@@ -202,17 +205,17 @@ Aplikační vrstvu lze ověřit zejména v: [01-uvodni-ustanoveni-arbitr](01-uvo
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **úvod a 3 kapitoly** a **0** karet rozhodnutí, doplněné samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **úvod a 3 kapitoly** a **2** místní karty rozhodnutí Nejvyššího soudu, doplněné samostatnou mapou zásad, modalit a hloubkového výkladu. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 - [Komentář k zákonu č. 229/2002 Sb., o finančním arbitrovi](00-uvod.md): „Vychází ze znění zveřejněného k 15. 2. 2025; pozdější změny nemusí být zohledněny.“
 
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura zatím neexistuje; složka `judikatura/` se doplní strojově později;
+- místní judikatura se omezuje na 2 karty NS (20 Cdo 3524/2015 k § 1, 23 Cdo 1885/2021 k § 17a); u ostatních 26 ustanovení chybí;
 - místní důvodová zpráva chybí, historický argument nelze doložit;
 - časová působnost novel rozšiřujících § 1 odst. 1 není ověřena;
 - kapitola 3 nemá přehled typicky rozhodných důkazů a podkladů;
 - ústavní a unijní rámec řízení není samostatně zpracován.
 
-Aktualizaci musí spustit zejména změna místního znění předpisu (nové písmeno § 1 odst. 1, změna lhůt nebo sazeb), doplnění karty rozhodnutí, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
+Aktualizaci musí spustit zejména změna místního znění předpisu (nové písmeno § 1 odst. 1, změna lhůt nebo sazeb), doplnění další karty rozhodnutí, rozpor mezi kapitolou a systematickými dokumenty nebo zjištění, že odpověď stojí jen na neoznačeném předpokladu.
 
 **Jak ji řešit.** Na konci každého výkladu veďte krátký stav poznání: ověřené pravidlo, použitý místní zdroj, otevřená otázka a událost vyžadující revizi. Tvrzení bez dohledatelného místního podkladu buď odstraňte, nebo je označte jako hypotézu; absenci rozhodnutí nikdy neformulujte jako ustálený právní závěr.
 
