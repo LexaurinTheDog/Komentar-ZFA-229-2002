@@ -48,6 +48,11 @@ Druhá část kapitoly (§§ 4–7) upravuje kreační a statusová pravidla: jm
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [20 Cdo 3524/2015](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/B1FBAA3F473E3C0FC1258006003C0FE1?openDocument) — 1. 6. 2016, kat. A
+  > „Pravomoc finančního arbitra k rozhodování sporů mezi poskytovateli platebních služeb a uživateli platebních služeb při poskytování platebních služeb ve smyslu ustanovení § 1 písm. a) zákona č. 229/2002 Sb., ve znění účinném do 18. 8. 2013, je dána i v případě, kdy je platební služba poskytnuta z důvodu, který má původ mimo tento právní vztah (exekuce). Z ustanovení § 304b odst. 1 o. s. ř., ve znění účinném do 31. 12. 2012, nelze dovozovat, že se ochrana peněžních prostředků ve výši dvojnásobku životního minima uplatní pouze do okamžiku odepsání vymáhané pohledávky z účtu podle ustanovení § 307 odst. 1 o. s. ř., naopak tyto prostředky musí povinnému zůstat k dispozici i poté, co bylo peněžnímu ústavu doručeno vyrozumění o nabytí právní moci usnesení o nařízení výkonu rozhodnutí"
+
 #### Povaha pravomoci arbitra — „též" vedle soudů (odst. 1 úvodní část)
 
 Odst. 1 nezakládá výlučnou pravomoc arbitra. Slovo „**též**" a formulace „spor spadající **jinak do pravomoci českých soudů**" vyjadřují, že jde o soukromoprávní spory, které by bez ZFA rozhodoval soud, a zákon k nim přidává druhé, alternativní forum. Volba je na spotřebiteli: řízení se zahajuje jen na jeho návrh (§ 8 odst. 1, § 3 odst. 2). Na souběh obou cest reaguje § 9 — návrh je nepřípustný, jestliže ve věci samé již rozhodl soud nebo v téže věci probíhá řízení před soudem (písm. b)); stejně je tomu u předchozího rozhodnutí nebo probíhajícího řízení arbitra (písm. c)) a rozhodčího řízení (písm. d)).

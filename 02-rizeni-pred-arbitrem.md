@@ -644,6 +644,11 @@ Pravomocný nález je exekučním titulem; jeho výkon probíhá soudně, nikoli
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 1885/2021](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/1254C26D7218E563C125890F001DC7DC?openDocument) — 30. 8. 2022, kat. A
+  > „Rozsah, v jakém soud věc projedná a rozhodne, je v řízení podle části páté o. s. ř. určován jednak tím, o čem správní orgán pravomocně rozhodl, jednak požadavkem žalobce vyjádřeným v žalobě o tom, v jakém rozsahu má být věc soudem znovu projednána a rozhodnuta, nejde-li o výjimky podle § 250f o. s. ř. Vymezením rozsahu, v němž má být věc znovu projednána a rozhodnuta, v žalobě se současně určuje, v jaké části zůstává rozhodnutí správního orgánu podáním žaloby nedotčeno, nejde-li o výjimky podle § 250f o. s. ř. Nebyla-li určitá část věci otevřena k novému projednání soudem, nemůže účastník, na jehož návrh bylo zahájeno správní řízení, vzít svůj návrh na zahájení řízení před správním orgánem v této části účinně zpět. Pro rozsah, v jakém soud vysloví pozbytí účinnosti rozhodnutí správního orgánu dle § 250h odst. 3 o. s. ř. za situace, kdy účastník vezme zcela zpět návrh na zahájení…"
+
 #### Povinná sankce při vyhovění návrhu
 
 § 17a ukládá arbitrovi **povinnost** („uloží") v každém nálezu, jímž **byť i jen zčásti** vyhovuje návrhu, uložit instituci **sankci**. Nejde o pořádkovou pokutu (§ 23) ani o náhradu nákladů — náklady řízení nese každý účastník sám (§ 18 odst. 1) a sankce spotřebiteli nepřipadá; je **příjmem státního rozpočtu**. Smyslem je motivovat instituce k řádnému vyřizování reklamací a ke smírnému řešení sporu před vydáním nálezu, a podílet je tak na nákladech řešení sporu, v němž neobstály.
